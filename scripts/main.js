@@ -103,13 +103,13 @@ async function getInputValue(){
   }
   else if(value === "about" || value === "About"){
     trueValue(value);
-    createText("Hello, I am Sema! ;)")
+    createText("Hello, I am Bad Access (a.k.a Sema)! ;)")
     createText("I am a self-taught developer currently focused on <span class='blue'>Python</span>, <span class='blue'>Objective C</span>, and <span class='blue'>C++</span>.")
   }
   else if(value === "social -a" || value === "Social -a"){
     trueValue(value);
     createText("<a href='https://github.com/semaadev' target='_blank'><i class='fab fa-github white'></i> Github</a>")
-    createText("<a href='https://twitter.com/imsemadev' target='_blank'><i class='fab fa-twitter white'></i> Twitter</a>")
+    createText("<a href='https://twitter.com/execbadaccess' target='_blank'><i class='fab fa-twitter white'></i> Twitter</a>")
   }
   else if(value === "social" || value === "Social"){
     trueValue(value);
