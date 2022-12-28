@@ -1,0 +1,8 @@
+Origin: Sema
+Label: Sema
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Codename: cydia-ios
+Components: main
+Description: Ayo
